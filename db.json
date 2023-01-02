@@ -5,6 +5,68 @@
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
       "age": 38,
+      "id": 1,
+      "admin": true
+    },
+    {
+      "email": "alves@mail.com",
+      "password": "$2a$10$69tCLTJaB36vP1n9lEFHt.wT022392k3ErcY38gRYltN94YDF7mCC",
+      "id": 2
+    },
+    {
+      "email": "manu@mail.com",
+      "password": "$2a$10$CaTeM4FyqQjDAgGdbj/sv.65ITcK4tSAZhTc.RczaAyWAm3UR5x92",
+      "id": 3
+    },
+    {
+      "email": "teste@mail.com",
+      "password": "$2a$10$PjdXKgf/Rli0mCvYnvPi5u/K.x4iZgY8lqVEq873FM.aBhWzGYXLa",
+      "id": 4
+    }
+  ],
+  "books": [
+    {
+      "userId": 1,
+      "title": "The Warlock of Firetop Mountain",
+      "author": "Steve Jackson & Ian Livingstone",
+      "cover_art": "Peter Andrew Jones",
+      "interior_art": "Russ Nicholson",
+      "sections": 400,
+      "published": 1982,
+      "isbn": "0-14-031538-1",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "The Citadel of Chaos",
+      "author": "Steve Jackson",
+      "cover_art": "Emmanuel (1st), Ian Miller (2nd)",
+      "interior_art": "Russ Nicholson",
+      "sections": 400,
+      "published": 1983,
+      "isbn": "0-14-031603-5",
+      "id": 3
+    },
+    {
+      "userId": 3,
+      "title": "The Citadel",
+      "author": "Steve Jackson",
+      "cover_art": "Emmanuel (1st), Ian Miller (2nd)",
+      "interior_art": "Russ Nicholson",
+      "sections": 400,
+      "published": 1983,
+      "isbn": "0-14-031603-5",
+      "id": 4
+    }
+  ],
+  "rooms": [
+    {
+      "userId": 1,
+      "title": "'96 Zenkoku Koukou Soccer Senshuken (Japan)",
+      "genre": "sports",
+      "developer": "",
+      "publisher": "",
+      "description": "This is a soccer simulation game released only in Japan for the Super Famicom. Not like other soccer games on the SNES, and it has some similarities with Hat trick hero. In addition, you have to play as just one player, instead of controlling the whole team.",
       "id": 1
     }
   ]
