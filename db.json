@@ -1218,6 +1218,140 @@
           "title": []
         }
       ]
+    },
+    {
+      "name": "card_game",
+      "id": 4,
+      "series": [
+        {
+          "name": "Magic: The Gathering",
+          "id": 1,
+          "edition": [
+            {
+              "name": "Adventures in the Forgotten Realms",
+              "id": 1,
+              "cards": [
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60e4acbbed21b-8uy7w-pxe1q-148424639060e4acbbed263.jpg",
+                  "name": "Acererak, o Arquilich",
+                  "id": 1
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60df33d547e8d-k74wx-2jn5f-205437035860df33d547ed4.jpg",
+                  "name": "Acerto Crítico",
+                  "id": 2
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60e4b502a96fa-v9wnq-8niho-106069787760e4b502a9761.jpg",
+                  "name": "Adaga Reserva",
+                  "id": 3
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60ddf0ff41d8f-yi20o-u9gx3-98879599560ddf0ff41dd9.jpg",
+                  "name": "Aliado Extraplanar",
+                  "id": 4
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60df33aee01ad-u79jw-rqecm-94354748760df33aee0214.jpg",
+                  "name": "Anão Brônzeo",
+                  "id": 5
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60e5e4c061342-h2bw5-y1xjk-210219601660e5e4c061397.jpg",
+                  "name": "Asmodeus, o Arquidemônio",
+                  "id": 6
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60ddf07ed557d-6vlpf-6leat-122672481460ddf07ed55d6.jpg",
+                  "name": "Aprendiz Excêntrica",
+                  "id": 7
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60ddef9a7d4dc-6ha4i-rpnx3-9312965660ddef9a7d547.jpg",
+                  "name": "Aventureiro Triunfante",
+                  "id": 8
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60df35efda46a-vboau-er8df-185770883460df35efda4c8.jpg",
+                  "name": "Arauto de Hadar",
+                  "id": 9
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60dc938ebda3f-ubk7r-kq7fl-132150406060dc938ebda58.jpg",
+                  "name": "Assecla dos Poderosos",
+                  "id": 10
+                }
+              ]
+            },
+            {
+              "name": "Avacyn Restored",
+              "id": 2,
+              "cards": [
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/631906538b215-z85tq-dbh7r-1248625326631906538b25e.jpg",
+                  "name": "Alvanel",
+                  "id": 1
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/6319050810aee-ytzrl-xa3e6-18553605326319050810b22.jpg",
+                  "name": "Alquimista Galvânico",
+                  "id": 2
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/63190439f37cf-o78he-8jxf6-74246339763190439f380b.jpg",
+                  "name": "Anjo da Ascensão da Glória",
+                  "id": 3
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/6319058611ef9-9vz87-doj18-3015216076319058611f45.jpg",
+                  "name": "Apelo às Massas",
+                  "id": 4
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/63190467c3721-0oiuy-fuq2h-65004285263190467c3763.jpg",
+                  "name": "Artista do Sangue",
+                  "id": 5
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/6319043c7e2b5-wjpam-unsv9-20136168156319043c7e2fe.jpg",
+                  "name": "Anjo do Júbilo",
+                  "id": 6
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/6319049bb7dac-u0cd3-4xw8d-2652937806319049bb7df9.jpg",
+                  "name": "Behemoth Craterópode",
+                  "id": 7
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/631904651b68b-v39pg-ion8s-851530891631904651b6d0.jpg",
+                  "name": "Bênçãos da Natureza",
+                  "id": 8
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/63190554e325b-p9l2a-utg5y-200838121463190554e32a4.jpg",
+                  "name": "Carniçal Caçado",
+                  "id": 9
+                },
+                {
+                  "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/6319060b4b960-yjwh2-amq1v-12241198406319060b4b9aa.jpg",
+                  "name": "Cavaleiros de Gavony",
+                  "id": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Yugioh TCG",
+          "id": 2,
+          "edition": []
+        },
+        {
+          "name": "Pokemon TCG",
+          "id": 3,
+          "edition": []
+        }
+      ]
     }
   ]
 }
