@@ -29,7 +29,7 @@
         {
           "name": "Fighting Fantasy",
           "id": 1,
-          "books": [
+          "colection": [
             {
               "userId": 1,
               "image": "https://upload.wikimedia.org/wikipedia/en/b/b8/The_Warlock_of_Firetop_Mountain_%28first_edition%29.jpg",
@@ -344,7 +344,7 @@
         {
           "name": "Lord of the Rings",
           "id": 2,
-          "books": [
+          "colection": [
             {
               "userId": 1,
               "image": "https://static.wikia.nocookie.net/literature/images/e/e1/Thehobbit.PNG/revision/latest?cb=20090226164331",
@@ -470,7 +470,7 @@
         {
           "name": "Harry Potter",
           "id": 2,
-          "books": [
+          "colection": [
             {
               "userId": 1,
               "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
@@ -612,7 +612,7 @@
         {
           "name": "SNESS",
           "id": 1,
-          "games": [
+          "colection": [
             {
               "userId": 1,
               "image": "https://r.mprd.se/Super%20Nintendo/Titles/'96%20Zenkoku%20Koukou%20Soccer%20Senshuken%20(J).png",
@@ -787,7 +787,7 @@
         {
           "name": "N64",
           "id": 1,
-          "games": [
+          "colection": [
             {
               "userId": 1,
               "image": "",
@@ -899,7 +899,7 @@
         {
           "name": "dcComics",
           "id": 1,
-          "title": [
+          "colection": [
             {
               "name": "Action Comics",
               "id": 1,
@@ -1057,7 +1057,7 @@
         {
           "name": "marvelComics",
           "id": 2,
-          "title": [
+          "colection": [
             {
               "name": "Fantastic Four",
               "id": 1,
@@ -1215,7 +1215,7 @@
         {
           "name": "darkHorseComics",
           "id": 3,
-          "title": []
+          "colection": []
         }
       ]
     },
@@ -1226,7 +1226,7 @@
         {
           "name": "Magic: The Gathering",
           "id": 1,
-          "edition": [
+          "colection": [
             {
               "name": "Adventures in the Forgotten Realms",
               "id": 1,
@@ -1344,12 +1344,12 @@
         {
           "name": "Yugioh TCG",
           "id": 2,
-          "edition": []
+          "colection": []
         },
         {
           "name": "Pokemon TCG",
           "id": 3,
-          "edition": []
+          "colection": []
         }
       ]
     }
