@@ -941,7 +941,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/a/a9/Action_Comics_Vol_1_1.jpg",
               "title": "Superman, Champion of the Oppressed",
-              "creators": ["Jerry Siegel", "Joe Shuster"],
+              "author": ["Jerry Siegel", "Joe Shuster"],
               "Publisher": "DC Comics",
               "published": 1938,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -950,7 +950,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/b/b2/Action_Comics_Vol_1_2.jpg",
               "title": "Superman: 'War in San Monte'",
-              "creators": ["Jerry Siegel", "Joe Shuster"],
+              "author": ["Jerry Siegel", "Joe Shuster"],
               "Publisher": "DC Comics",
               "published": 1938,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -959,7 +959,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/d/d6/Action_Comics_Vol_1_3.jpg",
               "title": "Superman: 'Superman Battles Death Underground'",
-              "creators": ["Jerry Siegel", "Joe Shuster"],
+              "author": ["Jerry Siegel", "Joe Shuster"],
               "Publisher": "DC Comics",
               "published": 1938,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -968,7 +968,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/a/af/Action_Comics_Vol_1_4.jpg",
               "title": "Superman: 'Superman, Gridiron Hero'",
-              "creators": ["Jerry Siegel", "Joe Shuster"],
+              "author": ["Jerry Siegel", "Joe Shuster"],
               "Publisher": "DC Comics",
               "published": 1938,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -977,7 +977,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/e/e3/Action_Comics_Vol_1_5.jpg",
               "title": "Superman: 'The Big Scoop'",
-              "creators": ["Jerry Siegel", "Joe Shuster"],
+              "author": ["Jerry Siegel", "Joe Shuster"],
               "Publisher": "DC Comics",
               "published": 1938,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -986,7 +986,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/a/a6/Action_Comics_Vol_1_6.jpg",
               "title": "Superman: 'The Man Who Sold Superman'",
-              "creators": ["Jerry Siegel", "Joe Shuster"],
+              "author": ["Jerry Siegel", "Joe Shuster"],
               "Publisher": "DC Comics",
               "published": 1938,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -995,7 +995,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/8/88/Action_Comics_Vol_1_7.jpg",
               "title": "Superman Joins the Circus",
-              "creators": ["Jerry Siegel", "Joe Shuster"],
+              "author": ["Jerry Siegel", "Joe Shuster"],
               "Publisher": "DC Comics",
               "published": 1938,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1004,7 +1004,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/9/93/Action_Comics_Vol_1_8.jpg",
               "title": "Superman: 'Superman in the Slums'",
-              "creators": ["Jerry Siegel", "Joe Shuster"],
+              "author": ["Jerry Siegel", "Joe Shuster"],
               "Publisher": "DC Comics",
               "published": 1939,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1013,7 +1013,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/f/ff/Action_Comics_Vol_1_9.jpg",
               "title": "Superman: 'Wanted: Superman'",
-              "creators": ["Jerry Siegel", "Joe Shuster"],
+              "author": ["Jerry Siegel", "Joe Shuster"],
               "Publisher": "DC Comics",
               "published": 1939,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1022,7 +1022,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/b/b5/Action_Comics_Vol_1_10.jpg",
               "title": "Superman: 'Superman Goes to Prison'",
-              "creators": ["Jerry Siegel", "Joe Shuster"],
+              "author": ["Jerry Siegel", "Joe Shuster"],
               "Publisher": "DC Comics",
               "published": 1939,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1037,7 +1037,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/0/06/Batman_1.jpg",
               "title": "The Legend of the Batman - Who He is, and How he Came to Be",
-              "creators": ["Bill Finger", "Bob Kane"],
+              "author": ["Bill Finger", "Bob Kane"],
               "Publisher": "DC Comics",
               "published": 1940,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1046,7 +1046,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/6/6a/Batman_2.jpg",
               "title": "The Joker Meets the Cat-Woman",
-              "creators": ["Bill Finger", "Bob Kane"],
+              "author": ["Bill Finger", "Bob Kane"],
               "Publisher": "DC Comics",
               "published": 1940,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1055,7 +1055,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/4/4b/Batman_3.JPG",
               "title": "The Strange Case of the Diabolical Puppet Master",
-              "creators": ["Bill Finger", "Bob Kane"],
+              "author": ["Bill Finger", "Bob Kane"],
               "Publisher": "DC Comics",
               "published": 1940,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1064,7 +1064,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/6/60/Batman_4.jpg",
               "title": "The Case of the Joker's Crime Circus",
-              "creators": ["Bill Finger", "Bob Kane"],
+              "author": ["Bill Finger", "Bob Kane"],
               "Publisher": "DC Comics",
               "published": 1940,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1073,7 +1073,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/f/f0/Batman_5.jpg",
               "title": "The Riddle of the Missing Card",
-              "creators": ["Bill Finger", "Bob Kane"],
+              "author": ["Bill Finger", "Bob Kane"],
               "Publisher": "DC Comics",
               "published": 1941,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1082,7 +1082,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/d/d9/Batman_6.jpg",
               "title": "Murder on Parole",
-              "creators": ["Bill Finger", "Bob Kane"],
+              "author": ["Bill Finger", "Bob Kane"],
               "Publisher": "DC Comics",
               "published": 1941,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1091,7 +1091,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/4/49/Batman_7.jpg",
               "title": "Wanted: Practical Jokers",
-              "creators": ["Bill Finger", "Bob Kane"],
+              "author": ["Bill Finger", "Bob Kane"],
               "Publisher": "DC Comics",
               "published": 1941,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1100,7 +1100,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/4/4f/Batman_8.jpg",
               "title": "Stone Walls Do Not a Prison Make",
-              "creators": ["Bill Finger", "Bob Kane"],
+              "author": ["Bill Finger", "Bob Kane"],
               "Publisher": "DC Comics",
               "published": 1942,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1109,7 +1109,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/7/7d/Batman_9.jpg",
               "title": "The Four Fates",
-              "creators": ["Bill Finger", "Bob Kane"],
+              "author": ["Bill Finger", "Bob Kane"],
               "Publisher": "DC Comics",
               "published": 1942,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1118,7 +1118,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marvel_dc/images/c/c7/Batman_10.jpg",
               "title": "The Isle That Time Forgot",
-              "creators": ["Bill Finger", "Bob Kane"],
+              "author": ["Bill Finger", "Bob Kane"],
               "Publisher": "DC Comics",
               "published": 1942,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1133,7 +1133,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/f/f2/Fantastic_Four_Vol_1_1.jpg",
               "title": "Fantastic Four Vol 1",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1961,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1142,7 +1142,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/1/18/Fantastic_Four_Vol_1_2.png",
               "title": "Fantastic Four Vol 1 #2",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1961,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1151,7 +1151,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/9/98/Fantastic_Four_Vol_1_3.png",
               "title": "Fantastic Four Vol 1 #3",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1961,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1160,7 +1160,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/0/01/Fantastic_Four_Vol_1_4.png",
               "title": "Fantastic Four Vol 1 #4",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1961,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1169,7 +1169,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/e/e2/Fantastic_Four_Vol_1_5.png",
               "title": "Fantastic Four Vol 1 #5",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1962,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1178,7 +1178,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/6/61/Fantastic_Four_Vol_1_6.png",
               "title": "Fantastic Four Vol 1 #6",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1962,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1187,7 +1187,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/8/83/Fantastic_Four_Vol_1_7.png",
               "title": "Fantastic Four Vol 1 #7",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1962,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1196,7 +1196,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/a/ad/Fantastic_Four_Vol_1_8.jpg",
               "title": "Fantastic Four Vol 1 #8",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1962,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1205,7 +1205,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/a/ab/Fantastic_Four_Vol_1_9.png",
               "title": "Fantastic Four Vol 1 #9",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1962,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1214,7 +1214,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/6/6a/Fantastic_Four_Vol_1_10.png",
               "title": "Fantastic Four Vol 1 #10",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1963,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1229,7 +1229,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/d/d5/Amazing_Spider-Man_Vol_1_1.jpg",
               "title": "Amazing Spider-Man Vol 1 #1",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1962,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1238,7 +1238,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/c/c7/Amazing_Spider-Man_Vol_1_2.jpg",
               "title": "Amazing Spider-Man Vol 1 #2",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1963,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1247,7 +1247,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/b/b0/Amazing_Spider-Man_Vol_1_3.jpg",
               "title": "Amazing Spider-Man Vol 1 #3",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1963,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1256,7 +1256,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/0/07/Amazing_Spider-Man_Vol_1_4.jpg",
               "title": "Amazing Spider-Man Vol 1 #4",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1963,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1265,7 +1265,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/c/ce/Amazing_Spider-Man_Vol_1_5.jpg",
               "title": "Amazing Spider-Man Vol 1 #5",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1963,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1274,7 +1274,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/7/79/Amazing_Spider-Man_Vol_1_6.jpg",
               "title": "Amazing Spider-Man Vol 1 #6",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1963,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1283,7 +1283,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/a/a3/Amazing_Spider-Man_Vol_1_7.jpg",
               "title": "Amazing Spider-Man Vol 1 #7",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1963,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1292,7 +1292,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/9/9a/Amazing_Spider-Man_Vol_1_8.jpg",
               "title": "Amazing Spider-Man Vol 1 #8",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1963,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1301,7 +1301,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/e/ef/Amazing_Spider-Man_Vol_1_9.jpg",
               "title": "Amazing Spider-Man Vol 1 #9",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1963,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1310,7 +1310,7 @@
             {
               "image": "https://static.wikia.nocookie.net/marveldatabase/images/0/06/Amazing_Spider-Man_Vol_1_10.jpg",
               "title": "Amazing Spider-Man Vol 1 #10",
-              "creators": ["Stan Lee"],
+              "author": ["Stan Lee"],
               "Publisher": "Marvel Comics",
               "published": 1963,
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -1331,140 +1331,140 @@
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60e4acbbed21b-8uy7w-pxe1q-148424639060e4acbbed263.jpg",
               "serie": "Adventures in the Forgotten Realms",
-              "name": "Acererak, o Arquilich",
+              "title": "Acererak, o Arquilich",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 1
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60df33d547e8d-k74wx-2jn5f-205437035860df33d547ed4.jpg",
               "serie": "Adventures in the Forgotten Realms",
-              "name": "Acerto Crítico",
+              "title": "Acerto Crítico",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 2
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60e4b502a96fa-v9wnq-8niho-106069787760e4b502a9761.jpg",
               "serie": "Adventures in the Forgotten Realms",
-              "name": "Adaga Reserva",
+              "title": "Adaga Reserva",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 3
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60ddf0ff41d8f-yi20o-u9gx3-98879599560ddf0ff41dd9.jpg",
               "serie": "Adventures in the Forgotten Realms",
-              "name": "Aliado Extraplanar",
+              "title": "Aliado Extraplanar",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 4
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60df33aee01ad-u79jw-rqecm-94354748760df33aee0214.jpg",
               "serie": "Adventures in the Forgotten Realms",
-              "name": "Anão Brônzeo",
+              "title": "Anão Brônzeo",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 5
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60e5e4c061342-h2bw5-y1xjk-210219601660e5e4c061397.jpg",
               "serie": "Adventures in the Forgotten Realms",
-              "name": "Asmodeus, o Arquidemônio",
+              "title": "Asmodeus, o Arquidemônio",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 6
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60ddf07ed557d-6vlpf-6leat-122672481460ddf07ed55d6.jpg",
               "serie": "Adventures in the Forgotten Realms",
-              "name": "Aprendiz Excêntrica",
+              "title": "Aprendiz Excêntrica",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 7
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60ddef9a7d4dc-6ha4i-rpnx3-9312965660ddef9a7d547.jpg",
               "serie": "Adventures in the Forgotten Realms",
-              "name": "Aventureiro Triunfante",
+              "title": "Aventureiro Triunfante",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 8
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60df35efda46a-vboau-er8df-185770883460df35efda4c8.jpg",
               "serie": "Adventures in the Forgotten Realms",
-              "name": "Arauto de Hadar",
+              "title": "Arauto de Hadar",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 9
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60dc938ebda3f-ubk7r-kq7fl-132150406060dc938ebda58.jpg",
               "serie": "Adventures in the Forgotten Realms",
-              "name": "Assecla dos Poderosos",
+              "title": "Assecla dos Poderosos",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 10
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/631906538b215-z85tq-dbh7r-1248625326631906538b25e.jpg",
               "serie": "Avacyn Restored",
-              "name": "Alvanel",
+              "title": "Alvanel",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 11
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/6319050810aee-ytzrl-xa3e6-18553605326319050810b22.jpg",
               "serie": "Avacyn Restored",
-              "name": "Alquimista Galvânico",
+              "title": "Alquimista Galvânico",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 12
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/63190439f37cf-o78he-8jxf6-74246339763190439f380b.jpg",
               "serie": "Avacyn Restored",
-              "name": "Anjo da Ascensão da Glória",
+              "title": "Anjo da Ascensão da Glória",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 13
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/6319058611ef9-9vz87-doj18-3015216076319058611f45.jpg",
               "serie": "Avacyn Restored",
-              "name": "Apelo às Massas",
+              "title": "Apelo às Massas",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 14
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/63190467c3721-0oiuy-fuq2h-65004285263190467c3763.jpg",
               "serie": "Avacyn Restored",
-              "name": "Artista do Sangue",
+              "title": "Artista do Sangue",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 15
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/6319043c7e2b5-wjpam-unsv9-20136168156319043c7e2fe.jpg",
               "serie": "Avacyn Restored",
-              "name": "Anjo do Júbilo",
+              "title": "Anjo do Júbilo",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 16
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/6319049bb7dac-u0cd3-4xw8d-2652937806319049bb7df9.jpg",
               "serie": "Avacyn Restored",
-              "name": "Behemoth Craterópode",
+              "title": "Behemoth Craterópode",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 17
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/631904651b68b-v39pg-ion8s-851530891631904651b6d0.jpg",
               "serie": "Avacyn Restored",
-              "name": "Bênçãos da Natureza",
+              "title": "Bênçãos da Natureza",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 18
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/63190554e325b-p9l2a-utg5y-200838121463190554e32a4.jpg",
               "serie": "Avacyn Restored",
-              "name": "Carniçal Caçado",
+              "title": "Carniçal Caçado",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 19
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/magic/320/6319060b4b960-yjwh2-amq1v-12241198406319060b4b9aa.jpg",
               "serie": "Avacyn Restored",
-              "name": "Cavaleiros de Gavony",
+              "title": "Cavaleiros de Gavony",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 20
             }
@@ -1477,70 +1477,70 @@
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/yugioh_bkp/cd/669/8606.jpg",
               "serie": " Flames of Destruction",
-              "name": "Altergeist Emulatelf",
+              "title": "Altergeist Emulatelf",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 1
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/yugioh_bkp/cd/669/8579.jpg",
               "serie": "Flames of Destruction",
-              "name": "Altergeist Kidolga",
+              "title": "Altergeist Kidolga",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 2
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/yugioh_bkp/cd/669/8552.jpg",
               "serie": "Flames of Destruction",
-              "name": "Altergeist Multifaker",
+              "title": "Altergeist Multifaker",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 3
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/yugioh_bkp/cd/669/8553.jpg",
               "serie": "Flames of Destruction",
-              "name": "Altergeist Pixiel",
+              "title": "Altergeist Pixiel",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 4
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/yugioh_bkp/cd/669/8550.jpg",
               "serie": "Flames of Destruction",
-              "name": "Background Dragon",
+              "title": "Background Dragon",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 5
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/yugioh_bkp/cd/669/8541.jpg",
               "serie": "Flames of Destruction",
-              "name": "Backup Operator",
+              "title": "Backup Operator",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 6
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/yugioh_bkp/cd/669/8564.jpg",
               "serie": "Flames of Destruction",
-              "name": "Batteryman Solar",
+              "title": "Batteryman Solar",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 7
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/yugioh_bkp/cd/669/8572.jpg",
               "serie": "Flames of Destruction",
-              "name": "Boycotton",
+              "title": "Boycotton",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 8
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/yugioh_bkp/cd/669/8528.jpg",
               "serie": "Flames of Destruction",
-              "name": "Called by the Grave",
+              "title": "Called by the Grave",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 9
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/yugioh_bkp/cd/669/8635.jpg",
               "serie": "Flames of Destruction",
-              "name": "Crystal Conclave",
+              "title": "Crystal Conclave",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 10
             }
@@ -1553,70 +1553,70 @@
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/89/2130.png",
               "serie": "Ancient Origins",
-              "name": "Ace Trainer",
+              "title": "Ace Trainer",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 1
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/89/2131.png",
               "serie": "Ancient Origins",
-              "name": "Ampharos Spirit Link",
+              "title": "Ampharos Spirit Link",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 2
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/89/3733.27.png",
               "serie": "Ancient Origins",
-              "name": "Ampharos-EX",
+              "title": "Ampharos-EX",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 3
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/89/837.png",
               "serie": "Ancient Origins",
-              "name": "Ariados",
+              "title": "Ariados",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 4
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/89/3738.32.png",
               "serie": "Ancient Origins",
-              "name": "Baltoy",
+              "title": "Baltoy",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 5
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/89/839.png",
               "serie": "Ancient Origins",
-              "name": "Bellossom",
+              "title": "Bellossom",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 6
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/89/127.png",
               "serie": "Ancient Origins",
-              "name": "Eevee",
+              "title": "Eevee",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 7
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/89/3708.15.png",
               "serie": "Ancient Origins",
-              "name": "Entei",
+              "title": "Entei",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 8
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/89/135.png",
               "serie": "Ancient Origins",
-              "name": "Flareon",
+              "title": "Flareon",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 9
             },
             {
               "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/89/124.png",
               "serie": "Ancient Origins",
-              "name": "Gardevoir",
+              "title": "Gardevoir",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
               "id": 10
             }
