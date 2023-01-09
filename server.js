@@ -12,7 +12,7 @@ const rules = auth.rewriter({
   users: 640,
   colections: 644,
   forum: 644,
-  avatar: 644
+  avatar: 444,
 });
 
 app.use(cors());
