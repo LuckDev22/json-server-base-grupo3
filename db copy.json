@@ -30,118 +30,11 @@
           "published": 1984,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
           "id": 6
-        },
-        {
-          "image": "https://static.wikia.nocookie.net/marveldatabase/images/c/ce/Amazing_Spider-Man_Vol_1_5.jpg",
-          "title": "Amazing Spider-Man Vol 1 #5",
-          "author": [
-            "Stan Lee"
-          ],
-          "Publisher": "Marvel Comics",
-          "published": 1963,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "id": 5
-        },
-        {
-          "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60e5e4c061342-h2bw5-y1xjk-210219601660e5e4c061397.jpg",
-          "serie": "Adventures in the Forgotten Realms",
-          "title": "Asmodeus, o Arquidemônio",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "id": 6
-        },
-        {
-          "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/89/839.png",
-          "serie": "Ancient Origins",
-          "title": "Bellossom",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "id": 6
         }
       ],
       "id": 1,
       "admin": true,
-      "likedPosts": [],
-      "followed": [
-        {
-          "avatar": "data:image/png;base64,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",
-          "email": "kenzinho@mail.com",
-          "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-          "name": "Kenzinho",
-          "age": 38,
-          "myCollection": [
-            {
-              "userId": 1,
-              "image": "https://upload.wikimedia.org/wikipedia/en/0/07/Ff8puffin.jpg",
-              "title": "The Forest of Doom",
-              "author": "Ian Livingstone",
-              "cover_art": "Iain McCaig",
-              "interior_art": "Malcolm Barter",
-              "sections": 400,
-              "published": 1983,
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "id": 3
-            },
-            {
-              "userId": 1,
-              "image": "https://upload.wikimedia.org/wikipedia/en/2/2d/Ff3puffin.jpg",
-              "title": "Deathtrap Dungeon",
-              "author": "Ian Livingstone",
-              "cover_art": "Iain McCaig",
-              "interior_art": "Iain McCaig",
-              "sections": 400,
-              "published": 1984,
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "id": 6
-            },
-            {
-              "image": "https://static.wikia.nocookie.net/marveldatabase/images/c/ce/Amazing_Spider-Man_Vol_1_5.jpg",
-              "title": "Amazing Spider-Man Vol 1 #5",
-              "author": [
-                "Stan Lee"
-              ],
-              "Publisher": "Marvel Comics",
-              "published": 1963,
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "id": 5
-            },
-            {
-              "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60e5e4c061342-h2bw5-y1xjk-210219601660e5e4c061397.jpg",
-              "serie": "Adventures in the Forgotten Realms",
-              "title": "Asmodeus, o Arquidemônio",
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "id": 6
-            }
-          ],
-          "id": 1,
-          "admin": true,
-          "likedPosts": [],
-          "followed": []
-        },
-        {
-          "avatar": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/1561e238650505.598fa9a926fc2.jpg",
-          "email": "grupo3@mail.com",
-          "password": "$2a$10$XNuunZ3SoKyZEexwJVcPi.8A3.Y0FFV/Lce8ywJMnbDka5G4bkcBW",
-          "name": "Grupo03",
-          "myCollection": [],
-          "id": 2,
-          "admin": true
-        },
-        {
-          "avatar": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/b9f7c338650505.598fa9a926563.jpg",
-          "email": "alves@mail.com",
-          "password": "$2a$10$yv867u8cpEOYK3DZ3KCapO1AzSqkZSYSlJhJmyuF7Qr6JJ10RbHtG",
-          "name": "Leandro Alves",
-          "myCollection": [],
-          "id": 3
-        },
-        {
-          "avatar": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/1561e238650505.598fa9a926fc2.jpg",
-          "email": "alves12@mail.com",
-          "password": "$2a$10$QYfYnDAgYoxHB8rGmxlrjuFWm0RDPLsT6wHt/EZdiDGCoLZ/P8VLW",
-          "name": "Teste da Silva",
-          "myCollection": [],
-          "id": 4
-        }
-      ]
+      "likedPosts": []
     },
     {
       "avatar": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/1561e238650505.598fa9a926fc2.jpg",
@@ -177,83 +70,6 @@
       "myCollection": [
         {
           "userId": 1,
-          "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Ff22puffin.jpg",
-          "title": "Starship Traveller",
-          "author": "Steve Jackson",
-          "cover_art": "Peter Andrew Jones",
-          "interior_art": "Peter Andrew Jones",
-          "sections": 343,
-          "published": 1983,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "id": 4
-        },
-        {
-          "userId": 1,
-          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/The_Adventures_of_Tom_Bombadil_cover.jpg/220px-The_Adventures_of_Tom_Bombadil_cover.jpg",
-          "title": "The Adventures of Tom Bombadil and Other Verses from the Red Book",
-          "author": "J. R. R. Tolkien",
-          "cover_art": "Pauline Baynes",
-          "interior_art": "Pauline Baynes",
-          "published": 1962,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "id": 5
-        },
-        {
-          "userId": 1,
-          "image": "https://m.media-amazon.com/images/I/51p3WTQUhhL._SX328_BO1,204,203,200_.jpg",
-          "title": "The Hobbit, or There and Back Again",
-          "author": "J. R. R. Tolkien",
-          "cover_art": "J. R. R. Tolkien",
-          "interior_art": "J. R. R. Tolkien",
-          "published": 1937,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "id": 1
-        },
-        {
-          "image": "https://static.wikia.nocookie.net/marveldatabase/images/0/01/Fantastic_Four_Vol_1_4.png",
-          "title": "Fantastic Four Vol 1 #4",
-          "author": [
-            "Stan Lee"
-          ],
-          "Publisher": "Marvel Comics",
-          "published": 1961,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "id": 4
-        },
-        {
-          "image": "https://static.wikia.nocookie.net/marveldatabase/images/b/b0/Amazing_Spider-Man_Vol_1_3.jpg",
-          "title": "Amazing Spider-Man Vol 1 #3",
-          "author": [
-            "Stan Lee"
-          ],
-          "Publisher": "Marvel Comics",
-          "published": 1963,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "id": 3
-        },
-        {
-          "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60e5e4c061342-h2bw5-y1xjk-210219601660e5e4c061397.jpg",
-          "serie": "Adventures in the Forgotten Realms",
-          "title": "Asmodeus, o Arquidemônio",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "id": 6
-        },
-        {
-          "image": "https://repositorio.sbrauble.com/arquivos/in/magic/479855/60e4b502a96fa-v9wnq-8niho-106069787760e4b502a9761.jpg",
-          "serie": "Adventures in the Forgotten Realms",
-          "title": "Adaga Reserva",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "id": 3
-        },
-        {
-          "image": "https://repositorio.sbrauble.com/arquivos/in/yugioh_bkp/cd/669/8553.jpg",
-          "serie": "Flames of Destruction",
-          "title": "Altergeist Pixiel",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "id": 4
-        },
-        {
-          "userId": 1,
           "image": "https://upload.wikimedia.org/wikipedia/en/c/c8/The_citadel_of_chaos.jpg",
           "title": "The Citadel of Chaos",
           "author": "Steve Jackson",
@@ -266,13 +82,14 @@
         },
         {
           "userId": 1,
-          "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b4/1080%C2%B0_Snowboarding_cover.png/270px-1080%C2%B0_Snowboarding_cover.png",
-          "title": "1080 Snowboarding",
-          "genre": "Race",
-          "developer": "Nintendo",
-          "published": "1998",
+          "image": "https://upload.wikimedia.org/wikipedia/en/1/11/The_Return_of_the_King_cover.gif",
+          "title": "The Return of the King",
+          "author": "J. R. R. Tolkien",
+          "cover_art": "",
+          "interior_art": "",
+          "published": 1955,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "id": 3
+          "id": 4
         }
       ],
       "id": 5,
@@ -355,20 +172,118 @@
   ],
   "forum": [
     {
-      "userId": 5,
-      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGSzbCqfZ8dw-3uUAOAW7KyYuPEe2TWa8Bw&usqp=CAU",
-      "name": "Manuela Alves",
-      "title": "123",
-      "message": "123",
+      "userId": 1,
+      "title": "teste",
+      "message": "teste2",
       "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "kenzinho2",
+      "message": "teste3",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "kenzinho3",
+      "message": "teste3",
+      "id": 3
+    },
+    {
+      "userId": 5,
+      "title": "user5",
+      "message": "teste3",
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "title": "user5",
+      "message": "teste12",
+      "id": 5
+    },
+    {
+      "userId": 5,
+      "title": "user5",
+      "message": "teste novo",
+      "id": 6
+    },
+    {
+      "userId": 5,
+      "title": "testando novo post",
+      "message": "teste com a galera",
+      "id": 7
+    },
+    {
+      "userId": 5,
+      "name": "teste da silva",
+      "series": [],
+      "id": 8
+    },
+    {
+      "userId": 5,
+      "name": "teste",
+      "series": [],
+      "id": 9
+    },
+    {
+      "userId": 5,
+      "name": "teste",
+      "series": [],
+      "id": 10
     },
     {
       "userId": 5,
       "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGSzbCqfZ8dw-3uUAOAW7KyYuPEe2TWa8Bw&usqp=CAU",
       "name": "Manuela Alves",
-      "title": "123",
-      "message": "543",
-      "id": 2
+      "title": "testa ai",
+      "message": "test",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAADgCAMAAAAt85rTAAABg1BMVEX///+XFyCvGybKtBTq0hfg4ODn5+fd2tmCFBypAACpGiXhyhauFybKtRSUACGUCCCQFh+4OSSQAACUABHJswCJFR3MuRPp0AC8cBmtCxusABOfGCP29fXit7qiOT9/ABzUmp3GWyLFfRfonBrIrhTJgxbrohnFcXXx5OTnqhnt2RasZByvfhesACd6UBPKkxu3lBaefxOOXRaix823FSeRf4bz5KXMsiru1te4cnbEoxbEaiHSxXv79+DMuTvpyszKGSzWFC1gDhm44+3O09SzJzGeAADNg4a9T1aqUVa3OkG9fH/CYmexYWXZt7m6eHueJy/TkZShQR6cLh+mUB24QSS7TyPcrBuxchveshvQpKaqXxyzfBny44XOvFH5887w3mnb1cXXzqZ/AACWOT6sjxSWRkr4583xwXWedBbCfTznyqTprTnHfQDexYfv23Lr0z/Vv2Lpwhi9ABSheIGqn6mPeYB0Eh6dsbeJTlbk1KHV6/G7hgeKWWG/iTiIJjCYoKbgc8DsAAAKQklEQVR4nO3d/3vTxh0HcJ3tzLEs2UL+hi2H8MWBxKkbOjtZSIE4IeFbacqAlVJIoUDp2q0rS0gTNrb2T99Jd5Il+ZQvy31uvuzeP/R5eKCP7/V8Tne609nStJOdsf91A6CjgLJHAWWPAsoeBZQ9Cih7FFD2KKDsUUDZo4CyRwFljwLKHgWUPQooexRQ9iig7FFA2aOAXNPEEfqB4oDTE7dur9cbDbuE7l85uyyOKQS4eGs916jXU6mUjnBKtm3f2RBkFACcuJtzbV48IEV+Ng3/2QKAy+u51CAB0DN+Bv3hGjiweS/MiwJd4jLsx2vQwMVUPbUPECH4IoICl6PlYwCR/TlkAzRY4LBvGIjsO4At0ECB08M+BhDZV+CaoIECh3lMILK/hmsDJPBS45BAZENOiGDARUYHTQCWIAcaMODt+qGByF6EagUckF3ABGAJcJyBAt5iFjABiGy4O28oIJOXDNwAagYYkDUH7gMsfQHTDA0MOBEAjcMA0X2YZmhgwD/6k2DnnNFJABYLDx4GfRSmGRoY8BIdYzpT7facYbCAhUdL1XQABJvrYYHGqXYm087/qTMMLHxUNdPVZwW5gZ05DMTELztxYOFyNZ1Om6bsFcyQBEI94kunq18VZQYan7apMHPKCAMLH4gvbS4VZAZ2Hvu+zFYnBCzMUh8u4UOZganAl2k/7gTA4oPA5/dROYGhHoqFn3Z8YKFlBkDaR+UE0jHUj3tT4wILzwYFxEKJu2hnK+zzOqke7aBuH31UlBXozfJh4TnDBRaWzAjQm+ulA7rr+cglSEdSHRVnIwWkFyHcmh4G6C0m8H1oFNg+3cEVTEcKiEvojTJnQNqhQQHJLPgkE4+hR0cYD/jAG2Wg9g5BgGe9xVJnyNee6qCqGQc+LUIumOCARqo9JMx0hgrorygkBH45DGxPxXl4lLksKzA+iLrJM4BLkgKHBtEkYEtW4NzhgHSekA5onGb4mEBzSU4gEdX2BZZJCWeLEgI7ec+3manVkoDl8jffSA+8pj1/ESLmQzrz6rdjV8vyA3EWgjLmB8V7mR3LnhSgFpQxT3RpXLwsjrTAXByIs/C2RoCkeNkYsATREA1qNXEpFwwyA6G2WXOB5W993Vj2ZTDIgK14wVb0BIgvvtqLBYJ8Tit4neKuXi8H04R0K/pmwwhGzhpBXqtl/C5KcOXgVma2BHeSBAqY65wP38m4yNAgM8CROxn7LEwzNLhH2PcaUeE+N9tLoMcswI6RsIXDQGAf4EknpnAIaLZgfZBn1e7Vz80cBDRb5wugPkjgrfq5i3FhPu6bwkDQ4+nAwAsz+1dwSmbgpQOBuIAuEPT0vQL+97l3woHNu8YhgXKe+D1rpw4JRK9eyzfRT6Qa6NDASsX+XK7VxPLdXEo/ChCV7C+AJgsA4PJt98tYOtLDwDZJ3qx6McPA8QryvskEQuQJXFzE19IG/a6ZjpB+6kIAvEzy3Sck35k+8Gmx4gE94rQ2vbjI18kTWM/lrqCb/llm5AkpsPV7mo9p/Ao+LVTGKRATX715bXM+/csP+P2fTxmpEtKDo5OekADbP8SBXgnN1qOwD7lXIyr++BeeNeQFfP7XCxcxEKHQ6Vfc4g59QpH30/JDgFEfqoxbqHj6p5/+xqlVGjfgz7WZYSD+UyH2CCafNmlIF52M+ChwaqrV+p5Pu3gB39YyLCD+YzG/zzRRnZ2M+AJgOt16yaVhnIDulu4TFjCFio/aiUDzcswXAHF9edWQB3DT3TDbYgJ1VHjcTgCaZiXmQxYFVvHflvkMNRyA3oZnAjDlIJRUwepXk+OICZxzr9Dy1eM3TeMC3CQ7ngToxIApVHjaZgLNpUnMSQamW1xKyAFIn4wlAKOdNASsPox30BiwzGWcOT7w2v7AaCfN79dBcQiQnEcs/52DjwNwgQIvJgBT7mTYjt1sV6uMDhoDplscfByAP1PgjAfUh4G4k36Y8/ORnwfDHTQA0iPPXMbR4wPfHgTEnbQQZNLPOKODBkDSi8s8pkIOQHp5PUkEpsKjSBBGB/WB6ZEC+uPHVjJQd/zg9YIflo8C6YlLLsMovwpuXUgE0vR6/b6hO0wZTcUFztEjl+VrB3+6AOCLWhgY8vT7vQivv7KyvV2v93rRb0nqhh4HmiPVRTf9Yz4xYH98txcS9le2nXc7O/O/vLlZ74WqaIyvWjobOCLTxHMfeDEC7Dm7u5V+yOfs3MDpdrt77xuhIjqrq6tGFEinwfJ1Dj6Ot2pxoLG76/QGvtdY989mc20NE+ftQQ2N1dXdAdAKA/9x/LZxAfq3MjMeMBhl+nhMGfjOYB7+t81sNouJ841eUEHDGfgIkMzz5T8cv2kan/UgFcaA4aw0up7PA2az3e77eqiThn0BkJOPz4qeCJ9goMME9lfeER8FrnX37B5ihAB5+jjtyXjCLReoM4HbezfIfSUB4hK+6bHmwwDIzcdrV80VJgNX6jdukH9HgWvdX+qs3wyoIBdY5ejjti+KhQTIvATP0B46AM7XjQRg4XyVo4/fzjYWYqDOWA9i4J2jAJ9VOfo4bt0v1JKB94e66HxiFy184Onj+fBlIZcA1Pu5bhz4rzprkKm4g8y/+TVJ4/t0ad1dvbMq2N/eiUwTeBQt9ljrQRc4sk+XPCB7vWQEfdSf6PElyAK6q+ARBtZzuQZT6PS33xFhk87zJWYBsc8e3eeDXiZyrK1Rx1nBndTtpU3vVnTv154+vGVhjVsl/t905f2M3hWiqM5tu7Hi1pAsl7q/jfcMd1emYsH7+B9C8IR6sAtDGu8gLLy/08XAvd/e29hXITtP/gaNZVVgfACnLLAwgGEavXlzHLyk314/82up0es5pH9agx0od5cNxAdxjGSC+YtcjqW7uzK9nuGwt0RhfCAHgdjClINvU1DijiiQD+akU4IwhS9Ni6mD80H+EgKTyObB+eB/OC7eTQX7wI5TJl6Hgn1w50UTxlLRPsATvxEhnvj1AbASuYcB9UGe2R4IdVenI/xfx5veye6SEB/o72z7Qn8jysG3bJVgGqREYB/sL6V7wvDyybHiszy0D/i37odGGqHjixfgtxXEhcJ94O+biAmRJdgH/0KNqBCJmx9o4F+JQoR0HkR0IWiJ8gl550vO29F33O0oDLTcaR4TxfiEvLVn42YwD1rBPFgCfs+EHyGvJQquw8E8KMon6MVSgdAS7RP15ixfaIntn5q4V4NRIQEK9Il7uRsZaTxg6Y2oD9VEvr1uw8aTBQZar0T6RL6eb+Kmd5zylcD+qYl9/+BEDk8TIq8/NyKBWGgJrp9goPa12OvPjVigBvfqk6QIBoqPAsoeBZQ9Cih7FFD2KKDsUUDZo4BHTpPmd0eI//9wbww34FFFB3r5NEvjAeQpiztHAAiF840KCA088V2Uhusgw3U8HYlpojn608ToRgFljwLKHgWUPQooexRQ9iig7FFA2aOAskcBZY8Cyh4FlD0KKHsUUPYooOxRQNmjgLLn/wA4drKz9h/0NnyKI3wqTgAAAABJRU5ErkJggg==",
+      "name": "Kenzinho",
+      "title": "postagem nova",
+      "message": "novinho",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "avatar": "data:image/png;base64,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",
+      "name": "Kenzinho",
+      "title": "kenzinhopost",
+      "message": "post",
+      "id": 13
+    },
+    {
+      "userId": 5,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGSzbCqfZ8dw-3uUAOAW7KyYuPEe2TWa8Bw&usqp=CAU",
+      "name": "Manuela Alves",
+      "title": "manupost",
+      "message": "post",
+      "id": 14
+    },
+    {
+      "userId": 6,
+      "avatar": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/72ab4f38650505.598fa9a992ee1.png",
+      "name": "Isabela Alves",
+      "title": "belapost",
+      "message": "teste",
+      "id": 15
+    },
+    {
+      "userId": 6,
+      "avatar": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/72ab4f38650505.598fa9a992ee1.png",
+      "name": "Isabela Alves",
+      "title": "teste2",
+      "message": "testando",
+      "id": 16
+    },
+    {
+      "userId": 5,
+      "title": "user5",
+      "message": "teste novo",
+      "id": 17
     }
   ],
   "avatar": [
@@ -720,7 +635,7 @@
             },
             {
               "userId": 1,
-              "image": "https://static.wikia.nocookie.net/fightingfantasy/images/e/e5/FF25_Dragon_Both.jpg",
+              "image": "https://static.wikia.nocookie.net/fightingfantasy/images/e/e5/FF25_Dragon_Both.jpg/revision/latest?cb=20080108091231",
               "title": "Beneath Nightmare Castle",
               "author": "Peter Darvill-Evans",
               "cover_art": "Terry Oakes",
@@ -756,7 +671,7 @@
             },
             {
               "userId": 1,
-              "image": "https://static.wikia.nocookie.net/fightingfantasy/images/0/0b/Figfan28.jpg",
+              "image": "https://static.wikia.nocookie.net/fightingfantasy/images/0/0b/Figfan28.jpg/revision/latest?cb=20080621012016",
               "title": "Phantoms of Fear",
               "author": "Robin Waterfield",
               "cover_art": "Ian Miller",
@@ -1054,6 +969,31 @@
               "id": 13
             }
           ]
+        },
+        {
+          "name": "123",
+          "id": 5,
+          "colection": []
+        },
+        {
+          "name": "321",
+          "id": 5,
+          "colection": []
+        },
+        {
+          "name": "abc",
+          "id": 5,
+          "colection": []
+        },
+        {
+          "name": "Manuela Alves",
+          "id": 5,
+          "colection": []
+        },
+        {
+          "name": "manuzinha",
+          "id": 5,
+          "colection": []
         }
       ],
       "userId": 1
@@ -1314,7 +1254,7 @@
             },
             {
               "userId": 1,
-              "image": "https://upload.wikimedia.org/wikipedia/pt/9/91/64_Trump_Collection_Alice_no_Waku_Waku_Trump_World_cover.png",
+              "image": "https://static.wikia.nocookie.net/nintendo/images/4/4b/64_Trump_Collection_Alice_no_Waku_Waku_Trump_World_%28JP%29.jpg/revision/latest?cb=20221031212155&path-prefix=en",
               "title": "64 Trump Collection - Alice no Wakuwaku Trump World",
               "genre": "Card game",
               "developer": "Bottom Up",
@@ -1343,6 +1283,11 @@
               "id": 10
             }
           ]
+        },
+        {
+          "name": "Mario",
+          "id": 5,
+          "colection": []
         }
       ],
       "userId": 1
@@ -1351,6 +1296,132 @@
       "name": "Comics",
       "id": 3,
       "series": [
+        {
+          "name": "Action Comics",
+          "id": 1,
+          "colection": [
+            {
+              "image": "https://static.wikia.nocookie.net/marvel_dc/images/a/a9/Action_Comics_Vol_1_1.jpg",
+              "title": "Superman, Champion of the Oppressed",
+              "author": [
+                "Jerry Siegel",
+                "Joe Shuster"
+              ],
+              "Publisher": "DC Comics",
+              "published": 1938,
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+              "id": 1
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/marvel_dc/images/b/b2/Action_Comics_Vol_1_2.jpg",
+              "title": "Superman: 'War in San Monte'",
+              "author": [
+                "Jerry Siegel",
+                "Joe Shuster"
+              ],
+              "Publisher": "DC Comics",
+              "published": 1938,
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+              "id": 2
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/marvel_dc/images/d/d6/Action_Comics_Vol_1_3.jpg",
+              "title": "Superman: 'Superman Battles Death Underground'",
+              "author": [
+                "Jerry Siegel",
+                "Joe Shuster"
+              ],
+              "Publisher": "DC Comics",
+              "published": 1938,
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+              "id": 3
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/marvel_dc/images/a/af/Action_Comics_Vol_1_4.jpg",
+              "title": "Superman: 'Superman, Gridiron Hero'",
+              "author": [
+                "Jerry Siegel",
+                "Joe Shuster"
+              ],
+              "Publisher": "DC Comics",
+              "published": 1938,
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+              "id": 4
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/marvel_dc/images/e/e3/Action_Comics_Vol_1_5.jpg",
+              "title": "Superman: 'The Big Scoop'",
+              "author": [
+                "Jerry Siegel",
+                "Joe Shuster"
+              ],
+              "Publisher": "DC Comics",
+              "published": 1938,
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+              "id": 5
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/marvel_dc/images/a/a6/Action_Comics_Vol_1_6.jpg",
+              "title": "Superman: 'The Man Who Sold Superman'",
+              "author": [
+                "Jerry Siegel",
+                "Joe Shuster"
+              ],
+              "Publisher": "DC Comics",
+              "published": 1938,
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+              "id": 6
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/marvel_dc/images/8/88/Action_Comics_Vol_1_7.jpg",
+              "title": "Superman Joins the Circus",
+              "author": [
+                "Jerry Siegel",
+                "Joe Shuster"
+              ],
+              "Publisher": "DC Comics",
+              "published": 1938,
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+              "id": 7
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/marvel_dc/images/9/93/Action_Comics_Vol_1_8.jpg",
+              "title": "Superman: 'Superman in the Slums'",
+              "author": [
+                "Jerry Siegel",
+                "Joe Shuster"
+              ],
+              "Publisher": "DC Comics",
+              "published": 1939,
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+              "id": 8
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/marvel_dc/images/f/ff/Action_Comics_Vol_1_9.jpg",
+              "title": "Superman: 'Wanted: Superman'",
+              "author": [
+                "Jerry Siegel",
+                "Joe Shuster"
+              ],
+              "Publisher": "DC Comics",
+              "published": 1939,
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+              "id": 9
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/marvel_dc/images/b/b5/Action_Comics_Vol_1_10.jpg",
+              "title": "Superman: 'Superman Goes to Prison'",
+              "author": [
+                "Jerry Siegel",
+                "Joe Shuster"
+              ],
+              "Publisher": "DC Comics",
+              "published": 1939,
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+              "id": 10
+            }
+          ]
+        },
         {
           "name": "Batman",
           "id": 2,
@@ -1710,130 +1781,34 @@
           ]
         },
         {
-          "name": "Action Comics",
-          "id": 1,
-          "colection": [
-            {
-              "image": "https://static.wikia.nocookie.net/marvel_dc/images/a/a9/Action_Comics_Vol_1_1.jpg",
-              "title": "Superman, Champion of the Oppressed",
-              "author": [
-                "Jerry Siegel",
-                "Joe Shuster"
-              ],
-              "Publisher": "DC Comics",
-              "published": 1938,
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "id": 1
-            },
-            {
-              "image": "https://static.wikia.nocookie.net/marvel_dc/images/b/b2/Action_Comics_Vol_1_2.jpg",
-              "title": "Superman: 'War in San Monte'",
-              "author": [
-                "Jerry Siegel",
-                "Joe Shuster"
-              ],
-              "Publisher": "DC Comics",
-              "published": 1938,
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "id": 2
-            },
-            {
-              "image": "https://static.wikia.nocookie.net/marvel_dc/images/d/d6/Action_Comics_Vol_1_3.jpg",
-              "title": "Superman: 'Superman Battles Death Underground'",
-              "author": [
-                "Jerry Siegel",
-                "Joe Shuster"
-              ],
-              "Publisher": "DC Comics",
-              "published": 1938,
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "id": 3
-            },
-            {
-              "image": "https://static.wikia.nocookie.net/marvel_dc/images/a/af/Action_Comics_Vol_1_4.jpg",
-              "title": "Superman: 'Superman, Gridiron Hero'",
-              "author": [
-                "Jerry Siegel",
-                "Joe Shuster"
-              ],
-              "Publisher": "DC Comics",
-              "published": 1938,
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "id": 4
-            },
-            {
-              "image": "https://static.wikia.nocookie.net/marvel_dc/images/e/e3/Action_Comics_Vol_1_5.jpg",
-              "title": "Superman: 'The Big Scoop'",
-              "author": [
-                "Jerry Siegel",
-                "Joe Shuster"
-              ],
-              "Publisher": "DC Comics",
-              "published": 1938,
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "id": 5
-            },
-            {
-              "image": "https://static.wikia.nocookie.net/marvel_dc/images/a/a6/Action_Comics_Vol_1_6.jpg",
-              "title": "Superman: 'The Man Who Sold Superman'",
-              "author": [
-                "Jerry Siegel",
-                "Joe Shuster"
-              ],
-              "Publisher": "DC Comics",
-              "published": 1938,
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "id": 6
-            },
-            {
-              "image": "https://static.wikia.nocookie.net/marvel_dc/images/8/88/Action_Comics_Vol_1_7.jpg",
-              "title": "Superman Joins the Circus",
-              "author": [
-                "Jerry Siegel",
-                "Joe Shuster"
-              ],
-              "Publisher": "DC Comics",
-              "published": 1938,
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "id": 7
-            },
-            {
-              "image": "https://static.wikia.nocookie.net/marvel_dc/images/9/93/Action_Comics_Vol_1_8.jpg",
-              "title": "Superman: 'Superman in the Slums'",
-              "author": [
-                "Jerry Siegel",
-                "Joe Shuster"
-              ],
-              "Publisher": "DC Comics",
-              "published": 1939,
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "id": 8
-            },
-            {
-              "image": "https://static.wikia.nocookie.net/marvel_dc/images/f/ff/Action_Comics_Vol_1_9.jpg",
-              "title": "Superman: 'Wanted: Superman'",
-              "author": [
-                "Jerry Siegel",
-                "Joe Shuster"
-              ],
-              "Publisher": "DC Comics",
-              "published": 1939,
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "id": 9
-            },
-            {
-              "image": "https://static.wikia.nocookie.net/marvel_dc/images/b/b5/Action_Comics_Vol_1_10.jpg",
-              "title": "Superman: 'Superman Goes to Prison'",
-              "author": [
-                "Jerry Siegel",
-                "Joe Shuster"
-              ],
-              "Publisher": "DC Comics",
-              "published": 1939,
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "id": 10
-            }
-          ]
+          "name": "Lanterna Verde",
+          "id": 5,
+          "colection": []
+        },
+        {
+          "name": "Elias",
+          "id": 5,
+          "colection": []
+        },
+        {
+          "name": "teste da Silva",
+          "id": 5,
+          "colection": []
+        },
+        {
+          "name": "",
+          "id": 5,
+          "colection": []
+        },
+        {
+          "name": "isabela",
+          "id": 5,
+          "colection": []
+        },
+        {
+          "name": "newserie",
+          "id": 5,
+          "colection": []
         }
       ],
       "userId": 5
@@ -2139,9 +2114,31 @@
               "id": 10
             }
           ]
+        },
+        {
+          "name": "123",
+          "id": 5,
+          "colection": []
+        },
+        {
+          "name": "abcdeef",
+          "id": 7,
+          "colection": []
         }
       ],
       "userId": 5
+    },
+    {
+      "userId": 5,
+      "name": "Teste",
+      "series": [],
+      "id": 5
+    },
+    {
+      "userId": 5,
+      "name": "teste",
+      "series": [],
+      "id": 6
     }
   ]
 }
